@@ -12,7 +12,3 @@ edad.addListener("data", (data) => {
     }
     process.exit();
 })
-
-
-
-  

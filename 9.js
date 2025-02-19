@@ -5,6 +5,6 @@ let persona = {
     edad: 21,
     profesión: "Estudiante"
 }
-persona = Object.assign(persona, {altura: 1.70});
+persona = Object.assign(persona, {nacionalidad: "Mexicano"});
 
 console.log("Altura: ",persona.altura)
